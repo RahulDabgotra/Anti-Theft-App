@@ -16,11 +16,11 @@ Anti-Theft App is a project which helps us to trace smartphones. It consists of 
     - Change Alternate Mobile Number
     - Change Password
 
-Runs in the background 
-Checks for if the SIM changes or the Phone gets rebooted
-Sends SMS to Alternate Mobile Number with details
-If the phone gets formatted
-Login through a web browser to access
-Camera
-Gallery
-GPS
+2. Runs in the background 
+    - Checks for if the SIM changes or the Phone gets rebooted
+        - Sends SMS to Alternate Mobile Number with details
+    - If the phone gets formatted
+        - Login through a web browser to access
+            - Camera
+            - Gallery
+            - GPS
