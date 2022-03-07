@@ -1,5 +1,5 @@
 # Anti-Theft-App
-## Lost Phone Recovery Android App Using SIM’s IMSI Number 
+## Lost phone recovery android app using SIM's IMSI number 
 Anti-Theft App is a project which helps us to trace smartphones. It consists of an Android client application that will automatically send SMS when the SIM card is changed.
 
 ![Initial App Setup](https://user-images.githubusercontent.com/43419632/143008413-9c58db6f-c8a8-4b7f-aaf9-e0ef5d9dfd94.png)
