@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.anti_theft">
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-feature android:glEsVersion="20000" android:required="true"/>
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:debuggable="true" android:allowBackup="true">
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCmElxjCpWM2HpsCNvA6vT1KTMA_m4nFJg"/>
+        <receiver android:label="@string/app_name" android:name="com.example.anti_theft.StartActivityAtBoot">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.example.anti_theft.CompareIMSI"/>
+        <receiver android:name="com.example.anti_theft.AlarmReceiver"/>
+        <activity android:label="@string/app_name" android:name="com.example.anti_theft.WelcomeScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_register" android:name="com.example.anti_theft.Register"/>
+        <activity android:label="@string/title_activity_register_data" android:name="com.example.anti_theft.RegisterData"/>
+        <activity android:label="@string/title_activity_login" android:name="com.example.anti_theft.Login"/>
+        <activity android:label="@string/title_activity_description" android:name="com.example.anti_theft.Description"/>
+        <activity android:label="@string/title_activity_menu" android:name="com.example.anti_theft.Menu"/>
+        <activity android:label="@string/title_activity_password" android:name="com.example.anti_theft.Password"/>
+        <activity android:label="@string/title_activity_number" android:name="com.example.anti_theft.Number"/>
+        <activity android:label="@string/title_activity_confirm__number" android:name="com.example.anti_theft.Confirm_Number"/>
+        <activity android:label="@string/title_activity_anti__introduction" android:name="com.example.anti_theft.Anti_Introduction"/>
+        <activity android:label="@string/title_activity_main" android:name="com.example.anti_theft.GeoLocation"/>
+        <activity android:label="@string/title_activity_alarm" android:name="com.example.anti_theft.Alarm"/>
+    </application>
+</manifest>

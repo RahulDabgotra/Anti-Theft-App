@@ -1,0 +1,169 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: RmMKpvxcy+QJ0F3j93CIC6zXj08=
+Created-By: 1.0 (Android)
+
+Name: res/drawable/password.jpg
+SHA1-Digest: lnG0GaaMmRJG1PzS06BZKci2j88=
+
+Name: res/menu/login.xml
+SHA1-Digest: mgh7cq6Dcz/Nd+4baEskXPI/dwM=
+
+Name: res/menu/welcome_screen.xml
+SHA1-Digest: aIdw9V97yy7+jhh+QMwYL10z29k=
+
+Name: res/drawable/alarm.jpg
+SHA1-Digest: SYKF1IwKq6lZKAsKlmcvi4x6TGk=
+
+Name: res/drawable/front.jpg
+SHA1-Digest: RqQSUPlrBpi3gKvdMfJmYJLoJBQ=
+
+Name: res/raw/audio.mp3
+SHA1-Digest: bnOCUtRwtLFlDkuzw5LNoaUmF50=
+
+Name: res/menu/alarm.xml
+SHA1-Digest: MmXCNbNhaODPQhx1ybo6FUVBrXQ=
+
+Name: res/layout/activity_confirm__number.xml
+SHA1-Digest: F8mlCAMyG8BEgPTAgtlUlmtlzHQ=
+
+Name: res/drawable/ps.jpg
+SHA1-Digest: ytvwxLqdSY7w0zI3naSnDO9YVB0=
+
+Name: res/drawable/alarm7.jpg
+SHA1-Digest: /puROCOgxE/cWLKstuA/rjmSjKg=
+
+Name: res/drawable/background.jpg
+SHA1-Digest: 5oIcvNKJaQ/F5nStiT4Jqrv9Pm0=
+
+Name: res/drawable/tick.png
+SHA1-Digest: NH6a9B5cbMBXBYlYhkZdiLC6/oE=
+
+Name: res/drawable/back7.jpg
+SHA1-Digest: /8FLuUeLEa5PGY77a9IL2RR4O0w=
+
+Name: res/layout/activity_login.xml
+SHA1-Digest: CmQRyMbBmonr6gH5PH2rHDRUCng=
+
+Name: res/drawable/pw.jpg
+SHA1-Digest: sKeC1q6StfHylVsIrlBtWc7iEuI=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: ZqUN1SXj/7oWV8MDiaoh/DTs2ys=
+
+Name: res/drawable/register.jpg
+SHA1-Digest: JE73GgPAI7JgT29rwV/xv0p5Yb4=
+
+Name: res/drawable/back2.jpg
+SHA1-Digest: ha7Qs/lH+PJdvK9lz96qiMFl4OM=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: 2zcAPYnAs0OA8DQ4yLutIydvAo4=
+
+Name: res/drawable/android.jpg
+SHA1-Digest: KuGUqw1g4EusjZDrR6PzBmJtdtc=
+
+Name: res/drawable/geo1.jpg
+SHA1-Digest: uuwuS4p/Qb2orJVLZAhSZ+qNvaY=
+
+Name: res/layout/activity_number.xml
+SHA1-Digest: 5xOpSfleLQMcsA6JRaJTOV+z6rw=
+
+Name: resources.arsc
+SHA1-Digest: EDphV6g0LBNxS3rwp+wGATR7Big=
+
+Name: res/layout/activity_menu.xml
+SHA1-Digest: oEYKmkrUYTkMXcflcVgea3BoDwg=
+
+Name: res/drawable/change.png
+SHA1-Digest: G3FYXE8M8d8p61vsJkeSNeNU6HU=
+
+Name: res/menu/menu.xml
+SHA1-Digest: IXqgjDdQqgEGt6UuzH+VOIx4sGg=
+
+Name: res/drawable/background2.jpg
+SHA1-Digest: rK++73+kEFlKAx/pgkxXKB5w6uI=
+
+Name: res/layout/activity_description.xml
+SHA1-Digest: DSVpFSj9l7vjfZaxqvVnsMzIW/w=
+
+Name: res/menu/anti__introduction.xml
+SHA1-Digest: WwiRnRCp5LC/VO0apE4sr7n3vDw=
+
+Name: res/menu/register_data.xml
+SHA1-Digest: MKKY1bOQoAqTswAxhwvWIYU6LL0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: gpdTGG0bQSR0YhSJh9Oqlt9RFVI=
+
+Name: res/menu/number.xml
+SHA1-Digest: yFzcvYShYdBY0tSTN2yCjxRr7tI=
+
+Name: res/menu/register.xml
+SHA1-Digest: 3Bf1NN3eMEL2e2RbB6zHR4BRcNM=
+
+Name: res/menu/main.xml
+SHA1-Digest: YY+jpuNGNuUItjTPIREsSKtdpAg=
+
+Name: res/drawable/pass.jpg
+SHA1-Digest: YPi1x9pIDjQye8ffib/0Ct8NhSE=
+
+Name: res/layout/activity_alarm.xml
+SHA1-Digest: 10Vngnd/7Idu6XfGubghEmDymxQ=
+
+Name: res/menu/description.xml
+SHA1-Digest: CrlfByQpiKOIkqrwLoFkH5OBF9k=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Sssk3OXRJAUhukcc5ZDuIvIIDg4=
+
+Name: res/menu/password.xml
+SHA1-Digest: 2Y7LFbWoSOl3hpdsgAoy9qNyGOw=
+
+Name: res/drawable/anti4.jpg
+SHA1-Digest: wqKPLw2xDxaq2DMdJOtAJoG1ADg=
+
+Name: res/layout/activity_welcome_screen.xml
+SHA1-Digest: eHxXd8YhYlSvtS6MPrJNneOYF+Q=
+
+Name: res/drawable/phn.png
+SHA1-Digest: 91iIN+4l8bzbXi/cZ+9Vf3HK7g8=
+
+Name: res/drawable/anti.jpg
+SHA1-Digest: SK898TORbBEIhxdCpYD6HLq+1ak=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: mF7GZl7DOaTWHHPGgnUsRk4A/oU=
+
+Name: res/layout/geo_location.xml
+SHA1-Digest: eESr4iiwHoekwHf2gv1xfrS/wv4=
+
+Name: res/layout/activity_register.xml
+SHA1-Digest: lWJEYUqKU/LCf4vU6xQYmYMe2PM=
+
+Name: res/drawable/pattern.jpg
+SHA1-Digest: EO5bTCH5lefoWgZ3XlOPNBvLVpw=
+
+Name: res/layout/activity_password.xml
+SHA1-Digest: iB6QW2bz9/P0RuSeyvBIPruG5Fw=
+
+Name: res/menu/confirm__number.xml
+SHA1-Digest: 9PmH+NQj04Gp9BaSdicoo8CrKaU=
+
+Name: res/layout/activity_anti__introduction.xml
+SHA1-Digest: ATL3WW150/e5dLreZaKOsp9Cnh8=
+
+Name: res/drawable/back5.jpg
+SHA1-Digest: chrx8sNVJ3FhyzYWFId/7VpDxG4=
+
+Name: res/drawable/password2.jpg
+SHA1-Digest: VemmFFtW9xuthf/76XBnC2gn6xk=
+
+Name: classes.dex
+SHA1-Digest: Bq8LVZkS1MVawV/bMMsw1Y9P8p0=
+
+Name: res/drawable/phone.png
+SHA1-Digest: 8KQhEp0eAKRYtZTYAVdjOwDcq2A=
+
+Name: res/drawable/time.jpg
+SHA1-Digest: ZXOJon3MSzmOGgdcBu0Rq/6t1Ds=
+

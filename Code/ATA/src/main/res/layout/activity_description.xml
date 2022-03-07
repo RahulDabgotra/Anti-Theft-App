@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/back7" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="25dp" android:textStyle="bold" android:gravity="center" android:id="@+id/tv2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Anti-Theft"/>
+    <View android:layout_width="1dp" android:layout_height="30dp"/>
+    <ImageView android:id="@+id/imageView1" android:layout_width="300dp" android:layout_height="150dp" android:src="@drawable/anti" android:layout_weight="0.12"/>
+    <TextView android:textStyle="bold" android:gravity="center" android:id="@+id/tv3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Mobile Anti-Theft system is an application for tracing back stolen or lost mobile. Once this system is installed onto a mobile phone and an alternate number is fed into the software. If SIM is been changed and that SIM is not registered in the database then, ATS sends a message to the alternative mobile number (friends / relatives number which is been saved while installing the application) in stealth mode and starts listening for incoming SMS messages." android:textAlignment="center"/>
+    <Button android:gravity="center" android:id="@+id/noreg" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register"/>
+    <Button android:gravity="center" android:id="@+id/utility" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Utility"/>
+</LinearLayout>

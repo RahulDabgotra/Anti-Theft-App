@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/register" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="30dp" android:textStyle="bold" android:id="@+id/tv1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register for Anti-Theft"/>
+    <View android:layout_width="2dp" android:layout_height="30dp"/>
+    <TextView android:textSize="20dp" android:textStyle="bold" android:id="@+id/tv2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="UserName:"/>
+    <EditText android:id="@+id/etext1" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Enter Name" android:inputType="text"/>
+    <TextView android:textSize="20dp" android:textStyle="bold" android:id="@+id/tv3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" Enter Password:"/>
+    <EditText android:id="@+id/etext2" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Enter Password" android:inputType="textPassword"/>
+    <TextView android:textSize="20dp" android:textStyle="bold" android:id="@+id/tv3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Confirm Password:"/>
+    <EditText android:id="@+id/etext3" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Confirm Password" android:inputType="textPassword"/>
+    <View android:layout_width="2dp" android:layout_height="30dp"/>
+    <Button android:gravity="center" android:id="@+id/bAdd" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Submit"/>
+    <Button android:gravity="center" android:id="@+id/bAdd2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="If already registered click here to Login"/>
+</LinearLayout>

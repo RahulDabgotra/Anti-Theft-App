@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="30dp" android:gravity="center" android:id="@+id/tv3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Anti Introduction"/>
+    <View android:layout_width="1dp" android:layout_height="20dp"/>
+    <TextView android:textSize="20dp" android:gravity="top|bottom|center_vertical|fill_vertical|center_horizontal|center" android:id="@+id/tv3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="When somebody change the SIM card on your missing phone the free anti-theft will automatically send an sms to your alternative registered number"/>
+    <ImageView android:id="@+id/imageView1" android:layout_width="wrap_content" android:layout_height="346dp" android:src="@drawable/register"/>
+    <View android:layout_width="1dp" android:layout_height="10dp"/>
+</LinearLayout>
